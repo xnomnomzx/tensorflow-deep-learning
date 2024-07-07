@@ -4,3 +4,8 @@
 .venv
 .ipynb_checkpoints
 .ipynb_checkpoints/
+*.zip
+*.jpg
+/__MACOSX
+/tensorflow_hub
+/__pycache__
